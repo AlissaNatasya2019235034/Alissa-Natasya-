@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+
+</head>
+<body>
+	
+	<h1><center>My name is Alissa Natasya Binti Norul Hisam</center></h1>
+    <font color="blue">
+    <p><i>I was born and raised in Kedah</i></p>
+    <p><i>I love watching Korean drama and cycling</i></p>
+    <p><i>Surely that’s what I do in my leisure time especially on semester breaks</i></p>
+    <br1>
+    <font color="black">
+    <p><center><b>Hopefully I can share more about myself next time</b></center></p>
+    
+</body>
+</html>
